@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="534.356" height="718.988" viewBox="0 0 534.356 718.988">
+  <g id="features-down-arrow" transform="translate(-106.055 -3388.762)" opacity="0.4">
+    <path id="Path_1064" data-name="Path 1064" d="M640.378,3389.26c-80.64,5.336-20.3,189.233-288.651,186.627S42.054,3910.416,195.772,4094.1" fill="none" stroke="#002158" stroke-width="1" stroke-dasharray="10"/>
+    <path id="fi-rr-caret-down" d="M6.414,9H17.586a1,1,0,0,1,.707,1.707l-5.586,5.586a1,1,0,0,1-1.414,0L5.707,10.707A1,1,0,0,1,6.414,9Z" transform="translate(183.484 4097.027) rotate(-34)" fill="#002158"/>
+  </g>
+</svg>
